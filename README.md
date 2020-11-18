@@ -10,3 +10,9 @@ Rain effect created using JavaScript and Canvas API. JavaScript Objects used for
 ## Color-Game
 Game developed using JavaScript and HTML. Bootstrap is used fpor styling and user can interact with two different game modes.
 
+## Photo-Grid
+It is a basic web page that show a collection of images using HTML and CSS.
+
+## Image-Gallery
+Improvised version of Photo-Grid. Bootstrap is used for styling.
+

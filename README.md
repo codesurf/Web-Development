@@ -1,5 +1,5 @@
 # Web-Development
-All the projects that I worked can be found under this repositories.
+Collection of all the web-development projects that are developed by me.
 
 ## Blog-App
 The blogging app is developed using Node.js and Express.js along with database connectivity using MongoDB. This web app follows RESTful Routing.

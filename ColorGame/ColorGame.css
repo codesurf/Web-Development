@@ -1,0 +1,106 @@
+body{
+	background: #232323;
+}
+
+.navbar-default .navbar-text {
+    color: #232323; 
+    float:left;
+    padding-left: 10px;
+}
+.new:hover{
+	color: #ff0000;
+	font-weight: bold;
+}
+
+#message{
+	position: relative;
+    margin-left:auto;
+    margin-right: auto;
+}
+
+.jumbotron{
+	margin-bottom: 0px;
+	text-align: center;
+	background: #d14b4b;
+	transition: background 0.3s;
+}
+
+.jumbotron h1{
+	/*font-size: 50px;*/
+	color: #144156;
+	font-family: 'Trispace', sans-serif;
+
+}
+
+.head1{
+	text-shadow: 2px 2px 4px #f2dede;
+}
+
+.head2{
+	/*position: relative;*/
+	margin-top: 3px;
+	font-size: 3em;
+	background: rgba(47, 40, 44, 0.9);
+	border-radius: 10px;
+	width: 40.33%;
+	
+	margin: 0 auto;
+	color: #f2dede;
+	font-family: 'Josefin Sans', sans-serif;
+
+}
+
+.game{
+	padding-top: 100%;
+}
+
+.thumbnail{
+	background: #232323;
+	border-radius: 10px;
+	border: 1px solid #232323;
+	transition: background 0.3s;
+}
+
+.row{
+	margin:0 auto;
+	max-width:600px;
+}
+
+
+.label{
+	font-size:14px;
+	margin-top: 13px;
+	margin-left: 30px;
+	margin-right: 30px;
+	line-height: 20px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+/*.navbar-text{
+	padding-left: 10px;
+}*/
+.new{
+	cursor:pointer;
+	text-align: center;
+	font-family: 'Grandstander', cursive;
+	font-size: 20px; 
+	padding-left: 15px;
+    padding-right: 15px;
+    margin-top: 15px;
+}
+
+
+
+/*.game{
+	padding-bottom: 30%;
+	width: 30%;
+	float: left;
+	margin: 1.66%;
+}
+
+#vessel{
+	max-width: 600px;
+	margin: 0 auto;
+}
+*
